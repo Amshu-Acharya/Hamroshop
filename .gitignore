@@ -1,0 +1,6 @@
+design-files/
+media/
+venv/
+.idea/
+*.pyc
+__pycache__/
